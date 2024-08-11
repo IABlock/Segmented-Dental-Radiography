@@ -1,7 +1,8 @@
-
 # Dental Radiography Image Segmentation
 
 This repository contains the code and steps for preprocessing, segmenting, and post-processing dental radiography images to create a dataset of segmented teeth.
+
+![Dental Segmentation](DentalSegmentation.jpg)
 
 ## Table of Contents
 
